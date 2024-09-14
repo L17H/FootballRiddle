@@ -1,3 +1,5 @@
+const React = window.React;
+const ReactDOM = window.ReactDOM;
 const riddles = [
   { answer: "Zidane", players: ["Desailly", "Ronaldo", "Del Piero", "Davids"] },
   { answer: "Henry", players: ["S.Campbell", "Barthez", "Messi", "Luyindula"] },
